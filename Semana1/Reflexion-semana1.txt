@@ -1,0 +1,6 @@
+La relacion que existe entre estas 3 cosas es que radican desde la confianza,la transparencia y rendición de cuentas,
+forman un ecosistemas donde la ética,la colaboración y la trazabilidad son fundamentales para el éxito de un proyecto 
+de software,una comunidad en línea o gestión pública.
+Estas 3 funciones implican manejar datos con integridad,involucramiento en asuntos comunes y la construcción de democracia 
+digital con lo que la utilización de github  nos permite controlar versiones y asi el trabajo es mas colaborativo y
+seguro 
