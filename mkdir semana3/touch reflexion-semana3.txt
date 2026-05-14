@@ -1,1 +1,6 @@
-
+Las herramientas como Git son importantes porque permiten guardar un registro de todos 
+los cambios realizados en un proyecto.
+Esto ayuda a los desarrolladores a organizar mejor su trabajo y evitar perder información 
+importante.Tambien permite volver a versiones anteriores si ocurre algún error en el 
+proyecto Git facilita el trabajo en el mismo proyecto al mismo tiempo.Ademas cada cambio 
+queda registrado con información sobre quien lo hizo y cuando los realizo.
