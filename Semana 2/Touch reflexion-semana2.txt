@@ -1,1 +1,3 @@
-
+Es importante por que la terminal le permite al desarrollador organizar carpetas y archivos de forma rápida y
+eficiente.Ademas,ayuda a crear proyectos,mover archivos,usar herramientas de programación y trabajar mejor con 
+sistemas como git y github 
