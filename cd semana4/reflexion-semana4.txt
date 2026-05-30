@@ -1,2 +1,8 @@
-Es importante porque permite que las comunidades tengan autonomía tecnológica, en lugar de depender completamente de grandes empresas o plataformas cerradas. Cuando una iniciativa ciudadana puede construir sus propias herramientas con tecnologías abiertas como Node.js, gana capacidad para decidir cómo funciona la tecnología, qué datos se usan y qué necesidades locales se priorizan.
-Las razones claves serian:soberanía y control,transparencia y confianza,costo accesible y sostenible,capacidad de colaboración,formación y apropiación tecnológica,interoperabilidad y libertad,innovación social rápida,
+Es importante porque permite que las comunidades tengan autonomía tecnológica, en 
+lugar de depender completamente de grandes empresas o plataformas cerradas. Cuando 
+una iniciativa ciudadana puede construir sus propias herramientas con tecnologías
+abiertas como Node.js, gana capacidad para decidir cómo funciona la tecnología, 
+qué datos se usan y qué necesidades locales se priorizan.
+Las razones claves serian:soberanía y control,transparencia y confianza,costo 
+accesible y sostenible,capacidad de colaboración,formación y apropiación tecnológica,
+interoperabilidad y libertad,innovación social rápida,
