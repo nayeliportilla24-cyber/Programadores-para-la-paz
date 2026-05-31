@@ -1,1 +1,9 @@
-
+Las APIs (Interfaces de Programación de Aplicaciones) permiten que diferentes
+plataformas y bases de datos se conecten, facilitando que las comunidades
+centralicen y compartan información en tiempo real. Esto permite canalizar 
+reportes y alertas ciudadanas de manera rápida, automatizando la distribución 
+de datos hacia las autoridades o aplicaciones locales.Gracias a esta integración, 
+una alerta de emergencia emitida en una app de seguridad vecinal puede actualizar 
+automáticamente un mapa público o un tablero de control institucional. Así, se 
+organiza el flujo de la información, evitando la duplicidad de datos y asegurando
+que todos los vecinos reciban notificaciones precisas y coordinadas.
