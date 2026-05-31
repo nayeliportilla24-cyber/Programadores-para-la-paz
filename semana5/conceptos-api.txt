@@ -1,1 +1,6 @@
 
+Una ruta de API, como GET /api/publicaciones, consulta y 
+devuelve recursos en formato JSON, mientras que 
+POST /api/reportes recibe datos y los almacena. 
+En una aplicación comunitaria, estos endpoints permiten gestionar incidencias,
+crear directorios locales o mantener un tablón de anuncios en tiempo real.
