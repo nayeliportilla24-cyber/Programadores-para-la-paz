@@ -1,1 +1,10 @@
-
+Yo considero que la seguridad digital es fundamental en las plataformas 
+que usan las comunidades porque no solo protege la información, sino 
+también la confianza de las personas. Si los usuarios sienten que sus 
+datos, opiniones o aportes pueden ser vulnerados, es probable que dejen 
+de participar o que no se expresen con libertad.
+Además, una plataforma segura permite que los procesos participativos
+sean más transparentes y confiables, evitando accesos no autorizados,
+modificaciones indebidas o pérdidas de información. Por eso, la seguridad 
+digital no debe verse solo como un aspecto técnico, sino como una forma de 
+cuidar a las personas y fortalecer la participación de toda la comunidad.
