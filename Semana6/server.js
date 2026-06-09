@@ -10,8 +10,8 @@ app.post('/registro', (req, res) => {
 
   res.json({
     estado: "Datos recibidos",
-    nombre: nombre,
-    mensaje: mensaje
+    nombre: nayely,
+    mensaje: "Hola comunidad"
   });
 
 });
