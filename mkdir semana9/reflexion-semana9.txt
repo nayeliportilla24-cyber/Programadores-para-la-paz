@@ -1,1 +1,13 @@
+Es fundamental que las plataformas comunitarias funcionen de forma estable y 
+segura porque son herramientas que sirven para compartir información, organizar 
+actividades y mantener la comunicación entre vecinos y grupos de trabajo.
+
+Si el servidor falla o se detiene, la comunidad pierde acceso a datos importantes,
+avisos o servicios en momentos que pueden ser urgentes. La estabilidad garantiza 
+que el sistema esté disponible cuando se necesite, sin interrupciones innecesarias.
+
+Por otra parte, la seguridad protege la información personal y los registros
+compartidos, evitando que sean modificados, robados o usados indebidamente. 
+Un servicio confiable genera confianza, hace que más personas participen y 
+asegura que el trabajo de la comunidad se mantenga ordenado y continuo a largo plazo.
 
