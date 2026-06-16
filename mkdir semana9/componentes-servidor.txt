@@ -1,1 +1,25 @@
+🔹 Sistema operativo
+Es la base que gestiona los recursos del equipo (memoria, procesador, red). 
+Permite que Node.js y las aplicaciones se ejecuten y se comuniquen con el
+hardware de forma ordenada.
+
+🔹 Node.js
+Es el entorno que permite ejecutar código JavaScript en el servidor, 
+fuera del navegador. Proporciona todas las herramientas necesarias para
+crear servicios y gestionar conexiones de forma eficiente.
+
+🔹 Aplicación server.js
+Es el programa que definimos: contiene las rutas, respuestas y reglas 
+del servicio. Indica exactamente qué información enviar cuando un usuario 
+accede a cada dirección.
+
+🔹 Puerto
+Es un punto de acceso numérico en el servidor que funciona 
+como "canal de comunicación". Permite identificar a qué servicio
+enviar cada solicitud recibida por la red.
+
+🔹 Logs
+Son registros de todo lo que ocurre en el servidor: accesos, 
+acciones y errores. Ayudan a revisar el funcionamiento, detectar fallas 
+rápidamente y mantener el servicio estable.
 
