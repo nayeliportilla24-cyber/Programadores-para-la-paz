@@ -1,1 +1,12 @@
+Las dos tareas que haría primero son:
 
+1. Permitir que el ciudadano registre una incidencia.
+2. Enviar una alerta en Telegram cuando se cree un nuevo reporte.
+
+Son las más importantes porque primero se necesita recibir la información y luego avisar al equipo para que pueda atenderla rápidamente.
+
+Para mí, una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada y no presenta errores.
+- Quedó registrada en Git con su respectivo commit.
