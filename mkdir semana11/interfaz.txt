@@ -1,1 +1,6 @@
-
+La plataforma tendría una interfaz sencilla y fácil de entender. En la parte superior 
+habría un formulario para crear una nueva causa con un título, una descripción y la 
+fecha. Debajo aparecería una lista con todas las causas disponibles para que cualquier 
+usuario pueda leerlas. Cada causa tendría un botón para brindar apoyo y un contador 
+que muestre cuántas personas la han apoyado. La interfaz no mostraría información
+privada de los usuarios y estaría organizada para facilitar su uso.
