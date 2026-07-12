@@ -1,1 +1,9 @@
-
+Durante este curso aprendí que la tecnología puede ayudar a fortalecer la participación 
+ciudadana y el trabajo comunitario. También comprendí la importancia de organizar la 
+información de manera clara y segura. Aprendí cómo funcionan herramientas como HTML, 
+CSS, Node.js, Express y GitHub. Además, entendí el uso de bases de datos y la 
+automatización con n8n y Telegram para facilitar algunos procesos. También 
+aprendí que es importante proteger los datos personales de las personas. 
+Este curso me permitió conocer cómo desarrollar soluciones sencillas para
+apoyar a una comunidad. Considero que estos conocimientos serán útiles para
+futuros proyectos y para seguir aprendiendo sobre desarrollo de software.
